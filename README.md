@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [github](https://github.com/401-advanced-javascript-bw/lab-00-deployment)
+- [github](https://github.com/401-advanced-javascript-bw/lab-00-deployment/pull/1)
 - [travis](https://www.travis-ci.com/401-advanced-javascript-bw/lab-00-deployment)
 - [heroku](https://dashboard.heroku.com/apps/lab-00-deployment-bw) (when applicable)
 - [front-end](http://xyz.com) (when applicable)
