@@ -8,7 +8,7 @@
 
 - [github](https://github.com/401-advanced-javascript-bw/lab-00-deployment/pull/2)
 - [travis](https://www.travis-ci.com/401-advanced-javascript-bw/lab-00-deployment)
-- [heroku](https://dashboard.heroku.com/apps/lab-00-deployment-bw) 
+- [heroku](https://lab-00-deployment-bw.herokuapp.com/) 
 
 ### Modules
 
